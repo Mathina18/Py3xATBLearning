@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81dc162f-206a-4a36-8767-b213d272bc63" name="Changes" comment="python learning- Tasks">
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task/Task#1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task/Task#2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task/Task#3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task/Task#4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Lab025.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +84,16 @@
     "Python.Lab024.executor": "Run",
     "Python.Lab031.executor": "Run",
     "Python.Lab032.executor": "Run",
+    "Python.Lab036.executor": "Run",
+    "Python.Lab037.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
     "Python.Task#1.executor": "Run",
     "Python.Task#2.executor": "Run",
+    "Python.Task#3.executor": "Run",
+    "Python.Task#4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -129,5 +139,16 @@
     <MESSAGE value="python learning" />
     <MESSAGE value="python learning- Tasks" />
     <option name="LAST_COMMIT_MESSAGE" value="python learning- Tasks" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_12062024/Task/Task#1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
