@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81dc162f-206a-4a36-8767-b213d272bc63" name="Changes" comment="python learning">
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab078.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +111,19 @@
     "Python.Lab062.executor": "Run",
     "Python.Lab063.executor": "Run",
     "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab069.executor": "Run",
+    "Python.Lab070.executor": "Run",
+    "Python.Lab071.executor": "Run",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077.executor": "Run",
     "Python.Task#1.executor": "Run",
     "Python.Task#2.executor": "Run",
     "Python.Task#3.executor": "Run",
@@ -168,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718765834991</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="python learning">
+      <option name="closed" value="true" />
+      <created>1718769368839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718769368839</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
