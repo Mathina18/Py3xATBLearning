@@ -18,7 +18,7 @@
 
 age = int(input("Enter your Age"))
 
-if age > 18:
+1if age > 18:
     print("Go to the club")
 else:
     print("Not allowed")
