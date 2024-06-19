@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81dc162f-206a-4a36-8767-b213d272bc63" name="Changes" comment="python learning- Tasks">
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab053.py" afterDir="false" />
+    <list default="true" id="81dc162f-206a-4a36-8767-b213d272bc63" name="Changes" comment="python learning">
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab065.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_12062024/Lab036.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +100,17 @@
     "Python.Lab050.executor": "Run",
     "Python.Lab051.executor": "Run",
     "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063.executor": "Run",
+    "Python.Lab064.executor": "Run",
     "Python.Task#1.executor": "Run",
     "Python.Task#2.executor": "Run",
     "Python.Task#3.executor": "Run",
@@ -147,14 +160,22 @@
       <option name="project" value="LOCAL" />
       <updated>1718190666299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="python learning">
+      <option name="closed" value="true" />
+      <created>1718765834991</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718765834991</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="python learning" />
     <MESSAGE value="python learning- Tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="python learning- Tasks" />
+    <MESSAGE value="python learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="python learning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
