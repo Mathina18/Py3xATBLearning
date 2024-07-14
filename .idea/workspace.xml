@@ -5,20 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81dc162f-206a-4a36-8767-b213d272bc63" name="Changes" comment="python learning and tasks">
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab143.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/xyz/filexyz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_01072024/xyz/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab145.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab150.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab151.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab154.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab156.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab158.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab159.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab160.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab162.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Mathina.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Testdata.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Ex_01072024/Lab141.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab141.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +201,27 @@
     "Python.Lab138.executor": "Run",
     "Python.Lab139.executor": "Run",
     "Python.Lab140.executor": "Run",
+    "Python.Lab141.executor": "Run",
+    "Python.Lab142.executor": "Run",
+    "Python.Lab143.executor": "Run",
+    "Python.Lab144.executor": "Run",
+    "Python.Lab145.executor": "Run",
+    "Python.Lab146.executor": "Run",
+    "Python.Lab147.executor": "Run",
+    "Python.Lab148.executor": "Run",
+    "Python.Lab149.executor": "Run",
+    "Python.Lab150.executor": "Run",
+    "Python.Lab151.executor": "Run",
+    "Python.Lab152.executor": "Run",
+    "Python.Lab153.executor": "Run",
+    "Python.Lab154.executor": "Run",
+    "Python.Lab155.executor": "Run",
+    "Python.Lab156.executor": "Run",
+    "Python.Lab157.executor": "Run",
+    "Python.Lab160.executor": "Run",
+    "Python.Lab161.executor": "Run",
+    "Python.Lab168.executor": "Run",
+    "Python.Lab169.executor": "Run",
     "Python.Tak#5(Anagrams).executor": "Run",
     "Python.Task#1(Reverse String).executor": "Run",
     "Python.Task#1.executor": "Run",
@@ -306,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720803649054</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="python learning and tasks">
+      <option name="closed" value="true" />
+      <created>1720883347601</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720883347601</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
