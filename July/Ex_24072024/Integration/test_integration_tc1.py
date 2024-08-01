@@ -1,4 +1,5 @@
-#Verify that create booking -> patch request ->verify that first name is updated
+#Verify that create booking -> patch request ->verify that
+# first name is updated
 import pytest
 import allure
 import requests
@@ -43,6 +44,9 @@ def create_booking():
     booking_id = data["bookingid"]
     return booking_id
 
+
+@allure.title("#TC1 -Verify that firstName and lastname is updated or not")
+@pytest.mark.integration
 def test_put_request_positive():
     base_url = "https://restful-booker.herokuapp.com"
     base_path = "/booking/" + str(create_booking())

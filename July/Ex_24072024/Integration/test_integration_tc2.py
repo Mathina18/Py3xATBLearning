@@ -1,4 +1,5 @@
-#Create a Booking, Delete the Booking with ID and Verify using GET request that it should not exist.
+#Create a Booking, Delete the Booking with ID and
+# Verify using GET request that it should not exist.
 import allure
 import pytest
 import requests
@@ -47,6 +48,9 @@ def create_booking():
     print(data)
     return booking_id
 
+
+@allure.title("#TC2 - Delete the booking and Verify that it should not exist")
+@pytest.mark.integration
 def test_delete():
     URL = "https://restful-booker.herokuapp.com/booking/"
     booking_id = create_booking()
